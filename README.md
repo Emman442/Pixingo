@@ -4,7 +4,7 @@
 
 Pixingo is a multiplayer image puzzle game where players analyze four images and submit the word, phrase, or concept that connects them.
 
-Unlike traditional puzzle games that rely on exact answer matching, Pixingo uses GenLayer Intelligent Contracts to evaluate answers semantically. Players are rewarded for understanding the concept behind the images, not for guessing a predefined string.
+Unlike traditional puzzle games(e.g 4 pics, 1 word) that rely on exact answer matching, Pixingo uses GenLayer Intelligent Contracts to evaluate answers semantically. Players are rewarded for understanding the concept behind the images, not for guessing a predefined string.
 
 If one player submits **"Fast"**, another submits **"Quick"**, and a third submits **"Speed"**, Pixingo can recognize all three as valid interpretations of the same concept through AI consensus.
 
@@ -86,7 +86,7 @@ At the end of the game, the player's full run is scored and submitted to the glo
 
 ---
 
-## Duel Mode
+## Duel Mode (Coming Soon)
 
 Two players compete head-to-head.
 
@@ -111,7 +111,7 @@ The winner receives the prize pool automatically.
 
 ---
 
-## Battle Royale
+## Battle Royale (Coming soon)
 
 Multiple players compete simultaneously across four rounds.
 
@@ -252,22 +252,6 @@ With GenLayer:
 Pixingo demonstrates a new category of application:
 
 **AI-native games whose gameplay depends on consensus over meaning rather than deterministic computation.**
-
----
-
-# Future Expansion
-
-The same validation engine can power:
-
-* Trivia competitions
-* Language learning games
-* Visual reasoning challenges
-* Meme contests
-* Educational quizzes
-* Prediction games
-* Creative competitions
-
-Pixingo is the first step toward AI-validated gaming on GenLayer.
 
 ---
 
