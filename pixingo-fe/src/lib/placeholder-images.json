@@ -1,0 +1,100 @@
+{
+  "placeholderImages": [
+    {
+      "id": "round1-1",
+      "description": "Blazing fire",
+      "imageUrl": "https://picsum.photos/seed/fire/600/600",
+      "imageHint": "fire flame"
+    },
+    {
+      "id": "round1-2",
+      "description": "Bright sun",
+      "imageUrl": "https://picsum.photos/seed/sun/600/600",
+      "imageHint": "sun shining"
+    },
+    {
+      "id": "round1-3",
+      "description": "Spicy chili",
+      "imageUrl": "https://picsum.photos/seed/chili/600/600",
+      "imageHint": "chili pepper"
+    },
+    {
+      "id": "round1-4",
+      "description": "Erupting volcano",
+      "imageUrl": "https://picsum.photos/seed/volcano/600/600",
+      "imageHint": "volcano lava"
+    },
+    {
+      "id": "round2-1",
+      "description": "Digital clock",
+      "imageUrl": "https://picsum.photos/seed/clock/600/600",
+      "imageHint": "digital clock"
+    },
+    {
+      "id": "round2-2",
+      "description": "Hourglass",
+      "imageUrl": "https://picsum.photos/seed/hourglass/600/600",
+      "imageHint": "hourglass sand"
+    },
+    {
+      "id": "round2-3",
+      "description": "Calendar",
+      "imageUrl": "https://picsum.photos/seed/calendar/600/600",
+      "imageHint": "calendar date"
+    },
+    {
+      "id": "round2-4",
+      "description": "Wristwatch",
+      "imageUrl": "https://picsum.photos/seed/watch/600/600",
+      "imageHint": "luxury watch"
+    },
+    {
+      "id": "round3-1",
+      "description": "Storm cloud",
+      "imageUrl": "https://picsum.photos/seed/cloud/600/600",
+      "imageHint": "storm cloud"
+    },
+    {
+      "id": "round3-2",
+      "description": "Heavy rain",
+      "imageUrl": "https://picsum.photos/seed/rain/600/600",
+      "imageHint": "rain falling"
+    },
+    {
+      "id": "round3-3",
+      "description": "Umbrella",
+      "imageUrl": "https://picsum.photos/seed/umbrella/600/600",
+      "imageHint": "open umbrella"
+    },
+    {
+      "id": "round3-4",
+      "description": "Ocean waves",
+      "imageUrl": "https://picsum.photos/seed/ocean/600/600",
+      "imageHint": "ocean waves"
+    },
+    {
+      "id": "round4-1",
+      "description": "Stack of books",
+      "imageUrl": "https://picsum.photos/seed/books/600/600",
+      "imageHint": "books stack"
+    },
+    {
+      "id": "round4-2",
+      "description": "Library shelves",
+      "imageUrl": "https://picsum.photos/seed/library/600/600",
+      "imageHint": "library interior"
+    },
+    {
+      "id": "round4-3",
+      "description": "Reading glasses",
+      "imageUrl": "https://picsum.photos/seed/glasses/600/600",
+      "imageHint": "reading glasses"
+    },
+    {
+      "id": "round4-4",
+      "description": "Fountain pen",
+      "imageUrl": "https://picsum.photos/seed/pen/600/600",
+      "imageHint": "fountain pen"
+    }
+  ]
+}
